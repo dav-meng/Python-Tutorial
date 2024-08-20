@@ -1,0 +1,30 @@
+print("Hello World")
+############################################Comment
+
+x=4
+y=24
+
+if y>x:
+    print("Y is Greater than x")
+
+print(x)
+
+################################################################
+
+#Product Price Checker
+
+Ferrari = 420000
+Toyota = 21000
+
+#Check which product is the least expensive
+
+if Ferrari < Toyota:
+    print("Toyota is Less expensive than Ferrari")
+elif Toyota < Ferrari:
+    print("Ferrari is Less Expensive than Toyota")
+else:
+    print("Both are are the same price")
+
+
+    
+    
